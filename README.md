@@ -1,5 +1,5 @@
 # TP-Ecobici-using-R-
-Final proyect of Data Science elective course @UBA as part of my Engineering degree
+Final project of Data Science elective course @UBA as part of my Engineering degree
 
 You may find attached (https://github.com/blascasado/TP-Ecobici-using-R-/blob/main/CDD%20Trabajo%20de%20aplicaci%C3%B3n.pdf) the final project document in which the devolpment and the algorithms applied are explained. At end you may find the R language code used.
 
